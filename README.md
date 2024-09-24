@@ -9,3 +9,4 @@ Temporary repo for putting information about Calibration Workflows for NGT
 - Topical discussion on "optimal calibrations at HLT": https://indico.cern.ch/event/1441972/?note=290593#1-discussion
 - Automation of HCAL-pedestals updates: https://indico.cern.ch/event/1420778/contributions/6017439
 - PCL and ideas for Phase-2: https://indico.cern.ch/event/1440455/contributions/6114675/attachments/2929685/5144317/PCL_Sep18th_2024.pdf
+- AlCaDB Workshop 2024: https://indico.cern.ch/event/1377170/
