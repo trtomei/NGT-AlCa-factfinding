@@ -9,7 +9,7 @@ Temporary repo for putting information about Calibration Workflows for NGT
 - AlCaDB Workshop 2024: https://indico.cern.ch/event/1377170/
 - PPD contribution on Prompt Calibration Loop for the CDR: https://indico.cern.ch/event/1460070/contributions/6185404/attachments/2958572/5203015/24-10-31_CDRSession_PPD.pdf
 - AlCaDB session at 2024 PPD workshop: https://indico.cern.ch/event/1468895/#b-590567-alcadb-session
-- AlCaDB hands on session (26.11.2024) at PPD workshophttps://indico.cern.ch/event/1477637/
+- AlCaDB hands on session (26.11.2024) at PPD workshop https://indico.cern.ch/event/1477637/
 
 ## Presentations at NGT CMS HLT meetings
 - Thiago's presentation on 2024-06-18 (general): https://indico.cern.ch/event/1421744/contributions/5989239/attachments/2879592/5044372/ThiagoTomei_OptimalCalibrations_2024-06-18.pdf
