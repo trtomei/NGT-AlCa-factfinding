@@ -49,3 +49,6 @@ Temporary repo for putting information about Calibration Workflows for NGT
 
 ## NGT Year One Report:
 - Overleaf: https://www.overleaf.com/project/6700324077658bf9d58e55dd
+
+## Link to code for re-evaulating HLT with updated conditions
+- gitHub: https://github.com/mmusich/NGT-Task-3.4
