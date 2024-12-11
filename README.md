@@ -15,7 +15,7 @@ Temporary repo for putting information about Calibration Workflows for NGT
 
 ## Presentations at NGT CMS HLT meetings
 - Thiago's presentation on 2024-06-18 (General): https://indico.cern.ch/event/1421744/contributions/5989239/attachments/2879592/5044372/ThiagoTomei_OptimalCalibrations_2024-06-18.pdf
-- Thiago's google-doc on 2024-09-18 (ECAL): https://docs.google.com/document/d/1vLQsURVhyYZqGMFuWHrbxLGowvbdKDfY4h6QO1c0CsY/edit?tab=t.0#heading=h.gpjqn9fpu3qa
+- Thiago's google-doc on 2024-09-18 (ECAL): https://docs.google.com/document/d/1XoZu4KWsd_Mid_xakgbVfVFkj6ScnV57AZ0asMivC0s/edit?tab=t.0#heading=h.gpjqn9fpu3qa
 - Thiago's google-doc on 2024-10-21 (Muons): https://docs.google.com/document/d/1vLQsURVhyYZqGMFuWHrbxLGowvbdKDfY4h6QO1c0CsY/edit?tab=t.0#heading=h.gpjqn9fpu3qa
 - Marco's presentation on 2024-11-05 (Strips): https://indico.cern.ch/event/1421776/contributions/5978894/subcontributions/485413/attachments/2961008/5207994/CMS_Strip_Calibration_Prospects_forNGT.pdf
 - Marco's presentation on 2024-11-21 (Pixel): https://indico.cern.ch/event/1421797/contributions/5978895/subcontributions/485418/attachments/2969849/5227228/CMS_Pixel_Calibration_Prospects_forNGT.pdf
