@@ -34,6 +34,8 @@ with open("run386926Streamers.txt") as f:
 process.source = cms.Source("NewEventStreamFileReader",
     fileNames = cms.untracked.vstring(*myFileNamesTuple)
 )
+
+process.GlobalTag = GlobalTag(process.GlobalTag, '140X_dataRun3_Express_v3', '')
 EOF
 
 # Not go crazy
