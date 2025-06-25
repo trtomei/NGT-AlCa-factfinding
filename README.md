@@ -26,7 +26,8 @@ Temporary repo for putting information about Calibration Workflows for NGT
 ## Talks with wider CMS Collaboration audience:
 - Mateusz's talk at the AlCaDB Workshop on 2025-03-10 (General): https://indico.cern.ch/event/1504131/#46-next-generation-triggers-op
 - Marco's talk at 8th CMS HLT Upgrade Workshop on 2025-03-14 (General): https://indico.cern.ch/event/1502063/contributions/6323278/attachments/3032004/5353104/mm_20250314_NGTReport_HLTUpgradeWS.pdf
-- Thiagos's talk at the CMS Week UC/TC plenary on 2025-04-10 (Genetal): https://indico.cern.ch/event/1526288/contributions/6433030/attachments/3049697/5390576/ThiagoTomei_HLTUpgrade_CMSWeek_2025-04-11_FINAL.pdf 
+- Thiagos's talk at the CMS Week UC/TC plenary on 2025-04-10 (General): https://indico.cern.ch/event/1526288/contributions/6433030/attachments/3049697/5390576/ThiagoTomei_HLTUpgrade_CMSWeek_2025-04-11_FINAL.pdf 
+- Jessica's talk at the CMS HLT scouting meeting on 2025-04-17 (Scouting): https://indico.cern.ch/event/1538269/contributions/6477770/attachments/3054092/5399146/DQM_NGT-JessicaPrendi.pdf
 - Marco's talk at USG 289 on 2025-06-23 (General): https://indico.cern.ch/event/1492972/contributions/6567341/attachments/3090981/5475225/mm_20250623_NGT_UPSGReport.pdf
 
 ## DPG Summaries:
