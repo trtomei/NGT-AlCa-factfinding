@@ -24,6 +24,7 @@ Temporary repo for putting information about Calibration Workflows for NGT
 - Marco's presentation on "_Running the HLT with Offline Conditions_" on 2024-11-21: https://indico.cern.ch/event/1421797/contributions/5978895/subcontributions/485418/attachments/2969849/5227227/HLT_withOfflineConditions.pdf
 
 ## Talks with wider CMS Collaboration audience:
+- Thiagos's talk at the CMS Week UC/TC plenary on 2025-04-10 (Genetal): https://indico.cern.ch/event/1526288/contributions/6433030/attachments/3049697/5390576/ThiagoTomei_HLTUpgrade_CMSWeek_2025-04-11_FINAL.pdf 
 - Marco's talk at 8th CMS HLT Upgrade Workshop on 2025-03-14 (General): https://indico.cern.ch/event/1502063/contributions/6323278/attachments/3032004/5353104/mm_20250314_NGTReport_HLTUpgradeWS.pdf
 - Marco's talk at USG 289 on 2025-06-23 (General): https://indico.cern.ch/event/1492972/contributions/6567341/attachments/3090981/5475225/mm_20250623_NGT_UPSGReport.pdf
 
